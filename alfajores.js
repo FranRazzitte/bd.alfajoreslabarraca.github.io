@@ -191,6 +191,50 @@ const alfajores = [
     "linkCatalogo": "https://wa.me/p/7712145038887687/5491120518253"
   },
   {
+    "nombre": "Glaseado Membrillo",
+    "precioPagina": "",
+    "precioEvento": "$1400",
+    "desc": "Un clásico con un toque frutal y equilibrado.<br>Sus tapas de vainilla son tiernas y esponjosas, rellenas con una generosa capa de dulce de membrillo suave y cremoso, que aporta un sabor dulce y ligeramente ácido.<br>Para coronarlo, una delicada capa de glaseado de azúcar, que le da ese toque crujiente y dulce tan característico.<br><br>Ideal para quienes buscan una opción diferente pero igual de deliciosa.<br><br>Peso neto 70grs.",
+    "descResumen": "",
+    "categoria": ['glaseado', 'todos'],
+    "nuevo": true,
+    "visible": true,
+    "linkCatalogo": "https://wa.me/p/9268365299955721/5491120518253"
+  },
+  {
+    "nombre": "Glaseado Dulce de Leche",
+    "precioPagina": "",
+    "precioEvento": "$1400",
+    "desc": "Un clásico irresistible con el equilibrio perfecto entre suavidad y dulzura.<br>Sus tapas de vainilla son tiernas y esponjosas, rellenas con una generosa cantidad de dulce de leche repostero, logrando una textura cremosa en cada bocado.<br>Para coronarlo, una delicada capa de glaseado de azúcar, que le da ese toque crujiente y dulce tan característico.<br><br>Ideal para quienes aman los sabores tradicionales con un toque extra de dulzura.<br><br>Peso Neto 70grs.",
+    "descResumen": "",
+    "categoria": ['glaseado', 'todos'],
+    "nuevo": true,
+    "visible": true,
+    "linkCatalogo": "https://wa.me/p/23918174027775671/5491120518253"
+  },
+  {
+    "nombre": "Glaseado Manzana",
+    "precioPagina": "",
+    "precioEvento": "$1400",
+    "desc": "Una combinación suave y equilibrada que deleita el paladar.<br>Sus tapas de vainilla, esponjosas y delicadas, abrazan un corazón de dulce de manzana elaborado artesanalmente, con su sabor natural y un sutil toque frutal. Para finalizar, una fina capa de glaseado de azúcar, que aporta ese clásico crocante y dulzura irresistible.<br><br>Ideal para quienes buscan un alfajor con un giro frutal y delicioso.<br><br>Peso neto 70grs.",
+    "descResumen": "",
+    "categoria": ['glaseado', 'todos'],
+    "nuevo": true,
+    "visible": true,
+    "linkCatalogo": "https://wa.me/p/8623903107712533/5491120518253"
+  },
+  {
+    "nombre": "Glaseado Durazno",
+    "precioPagina": "",
+    "precioEvento": "$1400",
+    "desc": "Una combinación dulce y frutal que sorprende.<br>Sus tapas de vainilla, tiernas y esponjosas, envuelven un relleno suave y generoso de dulce de durazno elaboradoartesanalmente, con su sabor delicado y ligeramente perfumado.<br>Para completar, una capa de glaseado de azúcar, que aporta ese toque crujiente y dulce irresistible.<br><br>Ideal para quienes buscan un alfajor diferente, con un toque frutal y refrescante.<br><br>Peso neto 70grs.",
+    "descResumen": "",
+    "categoria": ['glaseado', 'todos'],
+    "nuevo": true,
+    "visible": true,
+    "linkCatalogo": "https://wa.me/p/9418678811555228/5491120518253"
+  },
+  {
     "nombre": "Membrillo Negro",
     "precioPagina": "",
     "precioEvento": "$1400",

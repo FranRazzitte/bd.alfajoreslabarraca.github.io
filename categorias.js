@@ -42,6 +42,12 @@ const categorias = [
     ampliable: false
   },
   {
+    nombre: 'Glaseado',
+    colorLight: '#ffbb03',
+    colorDark: '#ffd666',
+    ampliable: false
+  },
+  {
     nombre: 'Cajas',
     colorLight: 'black',
     colorDark: 'white',
