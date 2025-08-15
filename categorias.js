@@ -30,6 +30,12 @@ const categorias = [
     ampliable: false
   },
   {
+    nombre: 'Pistacho',
+    colorLight: '#138200ff',
+    colorDark: '#88ff72ff',
+    ampliable: false
+  },
+  {
     nombre: 'Integrales',
     colorLight: '#5f5f5f',
     colorDark: '#c3c3c3',

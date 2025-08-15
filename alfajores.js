@@ -88,7 +88,7 @@ const alfajores = [
     "descResumen": "Alfajor de maicena, relleno con dulce de leche y decorado con coco rayado.<br>Peso neto 75grs.",
     "categoria": ['maicena', 'todos'],
     "nuevo": false,
-    "visible": true,
+    "visible": false,
     "linkCatalogo": "https://wa.me/p/3188162611217945/5491120518253"
   },
   {
@@ -99,7 +99,7 @@ const alfajores = [
     "descResumen": "Alfajor de maicena, relleno con dulce de leche y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
     "categoria": ['maicena', 'todos'],
     "nuevo": false,
-    "visible": true,
+    "visible": false,
     "linkCatalogo": "https://wa.me/p/3522782987738668/5491120518253"
   },
   {
@@ -119,7 +119,7 @@ const alfajores = [
     "precioEvento": "$1400",
     "desc": "Alfajor de Avena es una versión rústica y deliciosa del clásico alfajor, con una textura más firme y un sabor más profundo gracias a la combinación de ingredientes.<br><br>Las tapas están hechas con avena triturada, lo que les da una textura ligeramente crocante por fuera pero tierna por dentro.<br>La avena aporta un sabor más intenso y un toque nutritivo, complementado con un leve aroma a vainilla.<br><br>En el centro, el protagonista es el dulce de leche repostero, que le da cremosidad y ese dulzor irresistible que contrasta con la textura de las tapas.<br><br>Para el toque final, el alfajor se baña en chocolate semiamargo, logrando una cobertura crujiente que potencia todos los sabores. El amargor del chocolate equilibra la dulzura del dulce de leche y la base de avena, creando una experiencia intensa y equilibrada en cada bocado.<br><br>El resultado es un alfajor con un juego de texturas perfecto: crocante, cremoso y con el toque justo de dulzura.<br>Ideal para quienes buscan una opción distinta, con más cuerpo y sabor.<br>¡Una versión irresistible del clásico argentino!<br><br>Peso neto 75grs.",
     "descResumen": "Alfajor de cacao y avena, relleno con dulce de leche y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['avena', 'todos'],
+    "categoria": ['chocolates', 'todos'],
     "nuevo": false,
     "visible": true,
     "linkCatalogo": "https://wa.me/p/3174337869283824/5491120518253"
@@ -277,6 +277,28 @@ const alfajores = [
     "nuevo": false,
     "visible": false,
     "linkCatalogo": "https://wa.me/p/7920957281255043/5491120518253"
+  },
+  {
+    "nombre": "Pistacho",
+    "precioPagina": "",
+    "precioEvento": "$1400",
+    "desc": "Este alfajor te conquista con un sabor irresistible y diferente a todo lo que probaste. Las tapas, elaboradas con una masa que incorpora trozos de pistacho, ofrecen una textura ligeramente crocante. El corazón de este alfajor es una generosa capa de pasta de pistacho, que aporta una cremosidad intensa y un gusto inconfundible a este fruto seco. Complementando este relleno, el baño de chocolate con blanco añade un toque de dulzura clásica y suavidad, creando un equilibrio perfecto. El resultado es un postre exquisito que deleita a los paladares más exigentes.<br>Peso neto 75grs.",
+    "descResumen": "",
+    "categoria": ['pistacho', 'todos'],
+    "nuevo": false,
+    "visible": false,
+    "linkCatalogo": "https://wa.me/p/123456789/5491120518253"
+  },
+  {
+    "nombre": "Dubai",
+    "precioPagina": "",
+    "precioEvento": "$1400",
+    "desc": "Este alfajor presenta una experiencia de sabor única y sofisticada, inspirada en los sabores de Medio Oriente. Las tapas, elaboradas con una masa que incorpora trozos de pistacho, ofrecen una textura ligeramente crocante. El corazón de este alfajor es una generosa capa de pasta de pistacho, enriquecida con kadaif tostado y desmenuzado. Esta combinación aporta una cremosidad intensa y el gusto inconfundible del pistacho, con el toque inesperado de una textura crujiente y dorada. Complementando este relleno, un baño de chocolate con leche añade un toque de dulzura clásica y suavidad. El resultado es un postre exquisito que deleita a los paladares más exigentes con una combinación perfecta de lo dulce y lo crujiente, todo en un solo bocado.<br>Peso neto 75grs.",
+    "descResumen": "",
+    "categoria": ['pistacho', 'todos'],
+    "nuevo": false,
+    "visible": false,
+    "linkCatalogo": "https://wa.me/p/123456789/5491120518253"
   },
   {
     "nombre": "Integral",
