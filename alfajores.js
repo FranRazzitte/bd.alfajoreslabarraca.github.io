@@ -286,7 +286,7 @@ const alfajores = [
     "descResumen": "",
     "categoria": ['pistacho', 'todos'],
     "nuevo": false,
-    "visible": false,
+    "visible": true,
     "linkCatalogo": "https://wa.me/p/123456789/5491120518253"
   },
   {
@@ -297,7 +297,7 @@ const alfajores = [
     "descResumen": "",
     "categoria": ['pistacho', 'todos'],
     "nuevo": false,
-    "visible": false,
+    "visible": true,
     "linkCatalogo": "https://wa.me/p/123456789/5491120518253"
   },
   {
