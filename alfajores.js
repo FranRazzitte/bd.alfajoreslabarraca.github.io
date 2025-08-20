@@ -285,9 +285,9 @@ const alfajores = [
     "desc": "Este alfajor te conquista con un sabor irresistible y diferente a todo lo que probaste. Las tapas, elaboradas con una masa que incorpora trozos de pistacho, ofrecen una textura ligeramente crocante. El corazón de este alfajor es una generosa capa de pasta de pistacho, que aporta una cremosidad intensa y un gusto inconfundible a este fruto seco. Complementando este relleno, el baño de chocolate con blanco añade un toque de dulzura clásica y suavidad, creando un equilibrio perfecto. El resultado es un postre exquisito que deleita a los paladares más exigentes.<br>Peso neto 75grs.",
     "descResumen": "",
     "categoria": ['pistacho', 'todos'],
-    "nuevo": false,
+    "nuevo": true,
     "visible": true,
-    "linkCatalogo": "https://wa.me/p/123456789/5491120518253"
+    "linkCatalogo": "https://wa.me/p/24726400823632018/5491120518253"
   },
   {
     "nombre": "Dubai",
@@ -296,9 +296,9 @@ const alfajores = [
     "desc": "Este alfajor presenta una experiencia de sabor única y sofisticada, inspirada en los sabores de Medio Oriente. Las tapas, elaboradas con una masa que incorpora trozos de pistacho, ofrecen una textura ligeramente crocante. El corazón de este alfajor es una generosa capa de pasta de pistacho, enriquecida con kadaif tostado y desmenuzado. Esta combinación aporta una cremosidad intensa y el gusto inconfundible del pistacho, con el toque inesperado de una textura crujiente y dorada. Complementando este relleno, un baño de chocolate con leche añade un toque de dulzura clásica y suavidad. El resultado es un postre exquisito que deleita a los paladares más exigentes con una combinación perfecta de lo dulce y lo crujiente, todo en un solo bocado.<br>Peso neto 75grs.",
     "descResumen": "",
     "categoria": ['pistacho', 'todos'],
-    "nuevo": false,
+    "nuevo": true,
     "visible": true,
-    "linkCatalogo": "https://wa.me/p/123456789/5491120518253"
+    "linkCatalogo": "https://wa.me/p/24043410718684138/5491120518253"
   },
   {
     "nombre": "Integral",
