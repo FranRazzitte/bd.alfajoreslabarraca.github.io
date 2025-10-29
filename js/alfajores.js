@@ -11,31 +11,17 @@ const alfajores = [
     "category": ['chocolates', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/2943239592391020/5491120518253",
-    "nombre": "Chocolate Intenso",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor de cacao amargo, relleno con dulce de leche y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/2943239592391020/5491120518253"
+    "link": "https://wa.me/p/2943239592391020/5491120518253"
   },
   {
     "id": "Chocolate Suave",
-    "name": "Clasico",
+    "name": "Clásico",
     "desc": "Disfrutá de la suavidad y el equilibrio perfecto con nuestro Alfajor Chocolate Suave.<br>Dos tapas de cacao delicado, con una textura esponjosa y un sabor sutil, envuelven un generoso relleno de dulce de leche repostero.<br>Todo bañado en chocolate semiamargo, que aporta el toque justo de intensidad sin opacar su dulzura.<br>Una experiencia armoniosa para quienes prefieren un alfajor de sabor equilibrado y envolvente.<br><br>Peso neto 75grs.",
     "price": "",
     "category": ['chocolates', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/3772179199521813/5491120518253",
-    "nombre": "Chocolate Suave",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con dulce de leche y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3772179199521813/5491120518253"
+    "link": "https://wa.me/p/3772179199521813/5491120518253"
   },
   {
     "id": "Chocolate Blanco",
@@ -45,14 +31,7 @@ const alfajores = [
     "category": ['chocolates', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/2648568928598208/5491120518253",
-    "nombre": "Chocolate Blanco",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con dulce de leche y bañado con chocolate blanco.<br>Peso neto 75grs.",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/2648568928598208/5491120518253"
+    "link": "https://wa.me/p/2648568928598208/5491120518253"
   },
   {
     "id": "Chocolate con Leche",
@@ -62,14 +41,7 @@ const alfajores = [
     "category": ['chocolates', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/2867341769987819/5491120518253",
-    "nombre": "Chocolate con Leche",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con dulce de leche y bañado con chocolate de leche.<br>Peso neto 75grs.",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/2867341769987819/5491120518253"
+    "link": "https://wa.me/p/2867341769987819/5491120518253"
   },
   {
     "id": "Tentación de Maní",
@@ -79,14 +51,7 @@ const alfajores = [
     "category": ['chocolates', 'todos'],
     "new": true,
     "visible": true,
-    "link": "https://wa.me/p/27732963276290779/5491120518253",
-    "nombre": "Tentación de Maní",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con pasta de maní, dulce de leche y chocolate. Bañado con chocolate de leche.<br>Peso neto 75grs.",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/27732963276290779/5491120518253"
+    "link": "https://wa.me/p/27732963276290779/5491120518253"
   },
   {
     "id": "Cacao & Ron",
@@ -96,14 +61,7 @@ const alfajores = [
     "category": ['chocolates', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/9007280292672901/5491120518253",
-    "nombre": "Cacao & Ron",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/9007280292672901/5491120518253"
+    "link": "https://wa.me/p/9007280292672901/5491120518253"
   },
   {
     "id": "Nuez",
@@ -113,14 +71,7 @@ const alfajores = [
     "category": ['chocolates', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/8705545032888826/5491120518253",
-    "nombre": "Nuez",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/8705545032888826/5491120518253"
+    "link": "https://wa.me/p/8705545032888826/5491120518253"
   },
   {
     "id": "Maicena",
@@ -130,14 +81,7 @@ const alfajores = [
     "category": ['maicena', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/3188162611217945/5491120518253",
-    "nombre": "Maicena",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor de maicena, relleno con dulce de leche y decorado con coco rayado.<br>Peso neto 75grs.",
-    "categoria": ['maicena', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3188162611217945/5491120518253"
+    "link": "https://wa.me/p/3188162611217945/5491120518253"
   },
   {
     "id": "Maicena Bañada Negro",
@@ -147,14 +91,7 @@ const alfajores = [
     "category": ['maicena', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/3522782987738668/5491120518253",
-    "nombre": "Maicena Bañada Negro",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor de maicena, relleno con dulce de leche y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['maicena', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3522782987738668/5491120518253"
+    "link": "https://wa.me/p/3522782987738668/5491120518253"
   },
   {
     "id": "Maicena Bañada Blanco",
@@ -164,14 +101,7 @@ const alfajores = [
     "category": ['maicena', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/4946660275375824/5491120518253",
-    "nombre": "Maicena Bañada Blanco",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['maicena', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/4946660275375824/5491120518253"
+    "link": "https://wa.me/p/4946660275375824/5491120518253"
   },
   {
     "id": "Avena",
@@ -181,14 +111,7 @@ const alfajores = [
     "category": ['chocolates', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/3174337869283824/5491120518253",
-    "nombre": "Avena",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor de cacao y avena, relleno con dulce de leche y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['chocolates', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3174337869283824/5491120518253"
+    "link": "https://wa.me/p/3174337869283824/5491120518253"
   },
   {
     "id": "Avena Nevada",
@@ -198,14 +121,7 @@ const alfajores = [
     "category": ['avena', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/3040309089365303/5491120518253",
-    "nombre": "Avena Nevada",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['avena', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3040309089365303/5491120518253"
+    "link": "https://wa.me/p/3040309089365303/5491120518253"
   },
   {
     "id": "Avena Frutal",
@@ -215,14 +131,7 @@ const alfajores = [
     "category": ['avena', 'frutales', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/3584773164969219/5491120518253",
-    "nombre": "Avena Frutal",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor de cacao y avena, relleno con dulce de membrillo.<br>Peso neto 75grs.",
-    "categoria": ['avena', 'frutales', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3584773164969219/5491120518253"
+    "link": "https://wa.me/p/3584773164969219/5491120518253"
   },
   {
     "id": "Frutos Rojos",
@@ -232,14 +141,7 @@ const alfajores = [
     "category": ['frutales', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/5304282312977837/5491120518253",
-    "nombre": "Frutos Rojos",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con un dulce de frutos rojos artesanal (frutilla, arándanos, mora, frambuesa) y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['frutales', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/5304282312977837/5491120518253"
+    "link": "https://wa.me/p/5304282312977837/5491120518253"
   },
   {
     "id": "Corazón de Frutos Rojos",
@@ -249,14 +151,7 @@ const alfajores = [
     "category": ['frutales', 'todos'],
     "new": true,
     "visible": true,
-    "link": "https://wa.me/p/8431388843604552/5491120518253",
-    "nombre": "Corazón de Frutos Rojos",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con dulce de leche y un dulce de frutos rojos artesanal en el centro. Bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['frutales', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/8431388843604552/5491120518253"
+    "link": "https://wa.me/p/8431388843604552/5491120518253"
   },
   {
     "id": "Manzana",
@@ -266,14 +161,7 @@ const alfajores = [
     "category": ['frutales', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/3562345450537997/5491120518253",
-    "nombre": "Manzana",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con dulce de manzana artesanal y bañado con chocolate semiamargo.<br>Peso neto 75grs.",
-    "categoria": ['frutales', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3562345450537997/5491120518253"
+    "link": "https://wa.me/p/3562345450537997/5491120518253"
   },
   {
     "id": "DDL Sin Azúcar",
@@ -283,14 +171,7 @@ const alfajores = [
     "category": ['saludables', 'todos'],
     "new": true,
     "visible": true,
-    "link": "https://wa.me/p/7712145038887687/5491120518253",
-    "nombre": "DDL Sin Azúcar",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor endulzado con stevia, relleno con dulce de leche sin azúcar y bañado con chocolate amargo.<br>Peso neto 75grs.",
-    "categoria": ['saludables', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/7712145038887687/5491120518253"
+    "link": "https://wa.me/p/7712145038887687/5491120518253"
   },
   {
     "id": "Glaseado Membrillo",
@@ -300,14 +181,7 @@ const alfajores = [
     "category": ['glaseado', 'todos'],
     "new": true,
     "visible": false,
-    "link": "https://wa.me/p/9268365299955721/5491120518253",
-    "nombre": "Glaseado Membrillo",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['glaseado', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/9268365299955721/5491120518253"
+    "link": "https://wa.me/p/9268365299955721/5491120518253"
   },
   {
     "id": "Glaseado Dulce de Leche",
@@ -317,14 +191,7 @@ const alfajores = [
     "category": ['glaseado', 'todos'],
     "new": true,
     "visible": false,
-    "link": "https://wa.me/p/23918174027775671/5491120518253",
-    "nombre": "Glaseado Dulce de Leche",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['glaseado', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/23918174027775671/5491120518253"
+    "link": "https://wa.me/p/23918174027775671/5491120518253"
   },
   {
     "id": "Glaseado Manzana",
@@ -334,14 +201,7 @@ const alfajores = [
     "category": ['glaseado', 'todos'],
     "new": true,
     "visible": false,
-    "link": "https://wa.me/p/8623903107712533/5491120518253",
-    "nombre": "Glaseado Manzana",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['glaseado', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/8623903107712533/5491120518253"
+    "link": "https://wa.me/p/8623903107712533/5491120518253"
   },
   {
     "id": "Glaseado Durazno",
@@ -351,14 +211,7 @@ const alfajores = [
     "category": ['glaseado', 'todos'],
     "new": true,
     "visible": false,
-    "link": "https://wa.me/p/9418678811555228/5491120518253",
-    "nombre": "Glaseado Durazno",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['glaseado', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/9418678811555228/5491120518253"
+    "link": "https://wa.me/p/9418678811555228/5491120518253"
   },
   {
     "id": "Membrillo Negro",
@@ -368,14 +221,7 @@ const alfajores = [
     "category": ['frutales', 'todos'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/5071317579609956/5491120518253",
-    "nombre": "Membrillo Negro",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con dulce de membrillo y bañado con chocolate blanco.<br>Peso neto 75grs.",
-    "categoria": ['frutales', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/5071317579609956/5491120518253"
+    "link": "https://wa.me/p/5071317579609956/5491120518253"
   },
   {
     "id": "Membrillo Blanco",
@@ -385,14 +231,7 @@ const alfajores = [
     "category": ['frutales', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/5307116175973129/5491120518253",
-    "nombre": "Membrillo Blanco",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['frutales', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/5307116175973129/5491120518253"
+    "link": "https://wa.me/p/5307116175973129/5491120518253"
   },
   {
     "id": "Merengue con Dulce de Leche",
@@ -402,14 +241,7 @@ const alfajores = [
     "category": ['merengue', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/4661400207319943/5491120518253",
-    "nombre": "Merengue con Dulce de Leche",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "Alfajor con una delicada cantidad de cacao amargo, relleno con dulce de leche y bañado con merengue italiano.<br>Peso neto 75grs.",
-    "categoria": ['merengue', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/4661400207319943/5491120518253"
+    "link": "https://wa.me/p/4661400207319943/5491120518253"
   },
   {
     "id": "Merengue con Membrillo",
@@ -419,14 +251,7 @@ const alfajores = [
     "category": ['merengue', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/7920957281255043/5491120518253",
-    "nombre": "Merengue con Membrillo",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['merengue', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/7920957281255043/5491120518253"
+    "link": "https://wa.me/p/7920957281255043/5491120518253"
   },
   {
     "id": "Pistacho",
@@ -436,14 +261,7 @@ const alfajores = [
     "category": ['pistacho', 'todos'],
     "new": true,
     "visible": true,
-    "link": "https://wa.me/p/24726400823632018/5491120518253",
-    "nombre": "Pistacho",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['pistacho', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/24726400823632018/5491120518253"
+    "link": "https://wa.me/p/24726400823632018/5491120518253"
   },
   {
     "id": "Dubai",
@@ -453,14 +271,7 @@ const alfajores = [
     "category": ['pistacho', 'todos'],
     "new": true,
     "visible": true,
-    "link": "https://wa.me/p/24043410718684138/5491120518253",
-    "nombre": "Dubai",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['pistacho', 'todos'],
-    "nuevo": true,
-    "linkCatalogo": "https://wa.me/p/24043410718684138/5491120518253"
+    "link": "https://wa.me/p/24043410718684138/5491120518253"
   },
   {
     "id": "Integral",
@@ -470,14 +281,7 @@ const alfajores = [
     "category": ['integral', 'todos'],
     "new": false,
     "visible": false,
-    "link": "https://wa.me/p/5425917737421250/5491120518253",
-    "nombre": "Integral",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['integral', 'todos'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/5425917737421250/5491120518253"
+    "link": "https://wa.me/p/5425917737421250/5491120518253"
   },
   {
     "id": "Caja por 6 alfajores",
@@ -487,14 +291,7 @@ const alfajores = [
     "category": ['cajas'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/3049398341773716/5491120518253",
-    "nombre": "Caja por 6 alfajores",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['cajas'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3049398341773716/5491120518253"
+    "link": "https://wa.me/p/3049398341773716/5491120518253"
   },
   {
     "id": "Caja por 12 alfajores",
@@ -504,14 +301,7 @@ const alfajores = [
     "category": ['cajas'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/3306268116107321/5491120518253",
-    "nombre": "Caja por 12 alfajores",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['cajas'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/3306268116107321/5491120518253"
+    "link": "https://wa.me/p/3306268116107321/5491120518253"
   },
   {
     "id": "Mini Alfajores",
@@ -521,13 +311,6 @@ const alfajores = [
     "category": ['cajas'],
     "new": false,
     "visible": true,
-    "link": "https://wa.me/p/4590362054365924/5491120518253",
-    "nombre": "Mini Alfajores",
-    "precioPagina": "",
-    "precioEvento": "$1400",
-    "descResumen": "",
-    "categoria": ['cajas'],
-    "nuevo": false,
-    "linkCatalogo": "https://wa.me/p/4590362054365924/5491120518253"
+    "link": "https://wa.me/p/4590362054365924/5491120518253"
   }
 ]
