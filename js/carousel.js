@@ -7,7 +7,7 @@ const carousel = [
     {
         'id' : 2,
         'src' : '/img/carousel/2.png',
-        'href' : 'https://alfajoreslabarraca.com.ar/nosotros/'
+        'href' : 'https://alfajoreslabarraca.com.ar/productos/?p=pistacho'
     },
     {
         'id' : 3,
